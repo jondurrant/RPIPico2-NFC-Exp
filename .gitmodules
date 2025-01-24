@@ -1,0 +1,3 @@
+[submodule "lib/piconfc"]
+	path = lib/piconfc
+	url = https://github.com/MatthewIsHere/piconfc
